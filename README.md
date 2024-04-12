@@ -1,0 +1,2 @@
+# brandon_hafferman_phpcrudecrudv2
+fix broken aspects of brandon_hafferman_phpcrudecrud
